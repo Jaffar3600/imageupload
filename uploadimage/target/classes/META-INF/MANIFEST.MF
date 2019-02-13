@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: uploadimage
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jaffshai
+Implementation-Vendor-Id: com.cg.uploadimage
+Build-Jdk: 1.8.0_121
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/uploadimage
+Created-By: Maven Integration for Eclipse
+
